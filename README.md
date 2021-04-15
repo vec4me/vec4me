@@ -1,5 +1,3 @@
-![](https://time.lwan.ws/dali.gif)
-a
 <!--create a semi-random number using the last second of the send date-->
 {% capture time_seed %}
   {{ 'now' | date: "%s" }}
