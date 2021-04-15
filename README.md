@@ -1,1 +1,1 @@
-![](https://time.lwan.ws/dali.gif)
+<img src="https://time.lwan.ws/dali.gif"/>
