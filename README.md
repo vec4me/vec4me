@@ -1,1 +1,1 @@
-![](http://wuh.blocksrey.com:5679/)
+![](http://wuh.blocksrey.com:5679/?style=centerme)
