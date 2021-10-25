@@ -1,3 +1,3 @@
 <p align="center">
-  <img src="http://some_place.com/image.png" />
+  <img src="http://wuh.blocksrey.com:5679/" />
 </p>
