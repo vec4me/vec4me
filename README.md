@@ -1,2 +1,2 @@
 Welcome aboard!
-![Blocksrey.com](https://blocksrey.com/)
+![](https://picsum.photos/200/300.jpg)
