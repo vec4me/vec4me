@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="http://wuh.blocksrey.com:5679/"><img src="http://wuh.blocksrey.com:5679/"></a>
+  <img src="http://wuh.blocksrey.com:5679/">
   <br>
   <a href="http://wuh.blocksrey.com:5679/0"><img src="https://blocksrey.com/dokka/niku.gif"></a>
   <br>
