@@ -1,1 +1,3 @@
-![](http://wuh.blocksrey.com:5679/?style=centerme)
+<center>
+  <img src="http://wuh.blocksrey.com:5679/">
+</center>
