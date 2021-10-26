@@ -1,5 +1,5 @@
 <p align="center">
-	<img src="http://wuh.blocksrey.com:5679/render" onerror="this.onerror=null; this.src='https://blocksrey.com/icons/down.webp'">
+	<img src="http://wuh.blocksrey.com:5679/render">
 	<br>
 	<a href="http://wuh.blocksrey.com:5679/left"><img src="https://blocksrey.com/icons/left.webp"></a>
 	<a href="http://wuh.blocksrey.com:5679/down"><img src="https://blocksrey.com/icons/down.webp"></a>
