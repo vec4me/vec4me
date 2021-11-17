@@ -6,3 +6,4 @@
 	<a href="http://wuh.blocksrey.com:5679/up"><img src="https://blocksrey.com/icons/up.webp"></a>
 	<a href="http://wuh.blocksrey.com:5679/right"><img src="https://blocksrey.com/icons/right.webp"></a>
 </p>
+https://time.lwan.ws/dali.gif
