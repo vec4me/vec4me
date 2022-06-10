@@ -1,7 +1,7 @@
-<P ALIGN=CENTER STYLE=MARGIN:0>
+<P ALIGN=CENTER>
 	LMFAO
-	<IMG SRC=https://blocksrey.com/dokka/niku.gif></IMG>
-	<IMG SRC=https://blocksrey.com/dokka/niku.gif></IMG>
-	<IMG SRC=https://blocksrey.com/dokka/niku.gif></IMG>
-	<IMG SRC=https://blocksrey.com/dokka/niku.gif></IMG>
+	<IMG  STYLE=MARGIN:0 SRC=https://blocksrey.com/dokka/niku.gif></IMG>
+	<IMG STYLE=MARGIN:0  SRC=https://blocksrey.com/dokka/niku.gif></IMG>
+	<IMG  STYLE=MARGIN:0 SRC=https://blocksrey.com/dokka/niku.gif></IMG>
+	<IMG  STYLE=MARGIN:0 SRC=https://blocksrey.com/dokka/niku.gif></IMG>
 </P>
