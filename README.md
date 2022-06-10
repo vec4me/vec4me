@@ -1,7 +1,4 @@
-<p align="center">
-	<img src="http://home.blocksrey.com:5679/render"><br>
-	<a href="http://home.blocksrey.com:5679/left"><img src="https://blocksrey.com/icons/left.webp"></a>
-	<a href="http://home.blocksrey.com:5679/down"><img src="https://blocksrey.com/icons/down.webp"></a>
-	<a href="http://home.blocksrey.com:5679/up"><img src="https://blocksrey.com/icons/up.webp"></a>
-	<a href="http://home.blocksrey.com:5679/right"><img src="https://blocksrey.com/icons/right.webp"></a>
-</p>
+![]([link](http://home.blocksrey.com:5679/1)){: height="75px" width="300px" style="float:left; padding-right:10px" }
+![]([link](http://home.blocksrey.com:5679/3)){: height="75px" width="300px" style="float:left; padding-right:10px" }
+![]([link](http://home.blocksrey.com:5679/2)){: height="75px" width="300px" style="float:left; padding-right:10px" }
+![]([link](http://home.blocksrey.com:5679/0)){: height="75px" width="300px" style="float:left; padding-right:10px" }
