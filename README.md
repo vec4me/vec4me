@@ -1,2 +1,2 @@
-<center>ZX
+<a align=center>ZX
 </center>
