@@ -9,4 +9,4 @@ README.md (Even though it's HTML) by @BLOCKSREY
 	<A HREF=http://dammit.blocksrey.com:7890/U><IMG SRC=https://blocksrey.com/dokka/niku.gif></A>
 	<A HREF=http://dammit.blocksrey.com:7890/R><IMG SRC=https://blocksrey.com/dokka/niku.gif></A>
 </P>
-<A HREF=tel:+819094141337>ASD</A>
+<a href="tel:+819094141337">ASD</a>
