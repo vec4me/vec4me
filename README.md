@@ -8,4 +8,5 @@ README.md (Even though it's HTML) by @BLOCKSREY
 	<A HREF=http://dammit.blocksrey.com:7890/D><IMG SRC=https://blocksrey.com/dokka/niku.gif></IMG></A>
 	<A HREF=http://dammit.blocksrey.com:7890/U><IMG SRC=https://blocksrey.com/dokka/niku.gif></IMG></A>
 	<A HREF=http://dammit.blocksrey.com:7890/R><IMG SRC=https://blocksrey.com/dokka/niku.gif></IMG></A>
+	<VIDEO><SOURCE SRC=https://blocksrey.com/as/asd.webm></VIDEO>
 </P>
