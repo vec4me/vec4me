@@ -4,7 +4,8 @@ README.md (Even though it's HTML) by @BLOCKSREY
 -->
 <P ALIGN=CENTER>
 	<A HREF=https://twitter.com/Blocksrey>Twitter</A>
-	<A HREF=https://youtube.com/Blocksrey>YouTube</A>
+	<A HREF=https://instagram.com/Blocksrey>Instagram</A>
+	<A HREF=https://Blocksrey.itch.io>itch.io</A>
 	<BR>
 	<IMG SRC=http://lmfao.blocksrey.com:7890/V>
 	<BR>
