@@ -9,7 +9,7 @@ README.md (Even though it's HTML) by @BLOCKSREY
 	<BR>
 	<IMG SRC=http://lmfao.blocksrey.com:7890/V>
 	<BR>
-	<A HREF=http://lmfao.blocksrey.com:7890/L><IMG SRC=../niku.gif></A>
+	<A HREF=http://lmfao.blocksrey.com:7890/L><IMG SRC=./niku.gif></A>
 	<A HREF=http://lmfao.blocksrey.com:7890/D><IMG SRC=niku.gif></A>
 	<A HREF=http://lmfao.blocksrey.com:7890/U><IMG SRC=niku.gif></A>
 	<A HREF=http://lmfao.blocksrey.com:7890/R><IMG SRC=niku.gif></A>
