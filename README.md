@@ -5,7 +5,7 @@ README.md (Even though it's HTML) by @Blocksrey
 <P ALIGN=CENTER>
 	<IMG SRC=http://lmfao.Blocksrey.com:7890/V>
 	<BR>
-	<A HREF=http://lmfao.Blocksrey.com:7890/L><IMG SRC=http://Blocksrey.com/icons/left.webp></A>
+	<A HREF=http://lmfao.Blocksrey.com:7890/L><IMG WIDTH=18mm SRC=http://Blocksrey.com/icons/left.webp></A>
 	<A HREF=http://lmfao.Blocksrey.com:7890/D><IMG SRC=http://Blocksrey.com/icons/down.webp></A>
 	<A HREF=http://lmfao.Blocksrey.com:7890/U><IMG SRC=http://Blocksrey.com/icons/up.webp></A>
 	<A HREF=http://lmfao.Blocksrey.com:7890/R><IMG SRC=http://Blocksrey.com/icons/right.webp></A>
