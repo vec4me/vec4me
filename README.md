@@ -7,10 +7,10 @@ README.md (Even though it's HTML) by @Blocksrey
 	<BR>
 	<IMG SRC=http://lmfao.Blocksrey.com:7890/V>
 	<BR>
-	<A HREF=http://lmfao.Blocksrey.com:7890/L><IMG SRC=http://Blocksrey.com/images/nullgame.gif></A>
-	<A HREF=http://lmfao.Blocksrey.com:7890/D><IMG SRC=http://Blocksrey.com/images/left.webp></A>
-	<A HREF=http://lmfao.Blocksrey.com:7890/U><IMG SRC=http://Blocksrey.com/icons/K.gif></A>
-	<A HREF=http://lmfao.Blocksrey.com:7890/R><IMG SRC=http://Blocksrey.com/icons/L.gif></A>
+	<A HREF=http://lmfao.Blocksrey.com:7890/L><IMG SRC=https://Blocksrey.com/images/nullgame.gif></A>
+	<A HREF=http://lmfao.Blocksrey.com:7890/D><IMG SRC=https://Blocksrey.com/images/left.webp></A>
+	<A HREF=http://lmfao.Blocksrey.com:7890/U><IMG SRC=https://Blocksrey.com/icons/K.gif></A>
+	<A HREF=http://lmfao.Blocksrey.com:7890/R><IMG SRC=https://Blocksrey.com/icons/L.gif></A>
 	<BR>
 	<A HREF=http://YouTube.com/Blocksrey>YouTube</A>
 	<A HREF=http://Instagram.com/Blocksrey>Instagram</A>
