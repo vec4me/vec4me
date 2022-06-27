@@ -7,8 +7,8 @@ README.md (Even though it's HTML) by @Blocksrey
 	<BR>
 	<IMG SRC=http://lmfao.Blocksrey.com:7890/V>
 	<BR>
-	<A HREF=http://lmfao.Blocksrey.com:7890/L><IMG SRC=https://blocksrey.com/images/nullgame.gif></A>
-	<A HREF=http://lmfao.Blocksrey.com:7890/D><IMG SRC=https://blocksrey.com/images/down.webp></A>
+	<A HREF=http://lmfao.Blocksrey.com:7890/L><IMG SRC=https://blocksrey.com/images/H.gif></A>
+	<A HREF=http://lmfao.Blocksrey.com:7890/D><IMG SRC=https://blocksrey.com/images/J.gif></A>
 	<A HREF=http://lmfao.Blocksrey.com:7890/U><IMG SRC=https://blocksrey.com/images/K.gif></A>
 	<A HREF=http://lmfao.Blocksrey.com:7890/R><IMG SRC=https://blocksrey.com/images/L.gif></A>
 	<BR>
