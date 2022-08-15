@@ -3,7 +3,7 @@ README.md (Even though it's HTML) by @Blocksrey
 読めますか？これは日本語です。
 -->
 <P ALIGN=CENTER>
-	<IMG SRC=http://Blocksrey.com/images/nullgame.gif>
+	<IMG SRC=http://Blocksrey.com/images/click.gif>
 	<BR>
 	<IMG SRC=http://lmfao.Blocksrey.com:7890/V>
 	<BR>
