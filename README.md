@@ -5,7 +5,7 @@ README.md (Even though it's HTML) by @Blocksrey
 <P ALIGN=CENTER>
 	<IMG SRC=http://je.gy/images/click.gif>
 	<BR>
-	<IMG SRC=http://watch.je.gy:789/V>
+	<IMG SRC=http://173.230.150.235:789/V>
 	<BR>
 	<A HREF=http://173.230.150.235:789/L><IMG SRC=https://je.gy/images/left.webp></A>
 	<A HREF=http://173.230.150.235:789/D><IMG SRC=https://je.gy/images/down.webp></A>
