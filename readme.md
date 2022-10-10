@@ -5,7 +5,7 @@ readme.md (Even though it's HTML) by @blocksrey
 <p align=center>
 	<img src=https://je.gy/images/click.gif>
 	<br>
-	<img src=https://watch.je.gy:7890/V>
+	<img src=http://watch.je.gy:7890/V>
 	<br>
 	<a href=http://watch.je.gy:7890/L><img src=https://je.gy/images/H.gif></a>
 	<a href=http://watch.je.gy:7890/D><img src=https://je.gy/images/J.gif></a>
