@@ -7,7 +7,7 @@ README.md (Even though it's HTML) by @Blocksrey
 	<BR>
 	<IMG SRC=http://watch.je.gy:7890/V>
 	<BR>
-	<A HREF=http://watch.je.gy:7890/L><IMG SRC=https://je.gy/image/left.webp></A>
+	<A HREF=http://watch.je.gy:7890/L><IMG SRC=https://je.gy/image/L.gif></A>
 	<A HREF=http://watch.je.gy:7890/D><IMG SRC=https://je.gy/image/down.webp></A>
 	<A HREF=http://watch.je.gy:7890/U><IMG SRC=https://je.gy/image/up.webp></A>
 	<A HREF=http://watch.je.gy:7890/R><IMG SRC=https://je.gy/image/right.webp></A>
