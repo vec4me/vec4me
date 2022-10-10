@@ -7,10 +7,10 @@ readme.md (Even though it's HTML) by @blocksrey
 	<br>
 	<img src=https://watch.je.gy:7890/V>
 	<br>
-	<a HREF=http://watch.je.gy:7890/L><img src=https://je.gy/images/H.gif></a>
-	<a HREF=http://watch.je.gy:7890/D><img src=https://je.gy/images/J.gif></a>
-	<a HREF=http://watch.je.gy:7890/U><img src=https://je.gy/images/K.gif></a>
-	<a HREF=http://watch.je.gy:7890/R><img src=https://je.gy/images/L.gif></a>
+	<a href=http://watch.je.gy:7890/L><img src=https://je.gy/images/H.gif></a>
+	<a href=http://watch.je.gy:7890/D><img src=https://je.gy/images/J.gif></a>
+	<a href=http://watch.je.gy:7890/U><img src=https://je.gy/images/K.gif></a>
+	<a href=http://watch.je.gy:7890/R><img src=https://je.gy/images/L.gif></a>
 	<br>
 	<a href=https://github.com/blocksrey><img src=https://je.gy/images/github.ico></a>
 	<a href=https://blocksrey.booth.pm><img src=https://je.gy/images/booth.ico></a>
