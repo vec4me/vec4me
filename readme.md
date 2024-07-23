@@ -6,16 +6,16 @@ GitHub readme.md (even though it's HTML) by @blocksrey
 	<br>
 	<img src=playme.blocksrey.com/v>
 	<br>
-	<a href=playme.blocksrey.com/l><img src=www.blocksrey.com/shared/h.gif></a>
-	<a href=playme.blocksrey.com/d><img src=www.blocksrey.com/shared/j.gif></a>
-	<a href=playme.blocksrey.com/u><img src=www.blocksrey.com/shared/k.gif></a>
-	<a href=playme.blocksrey.com/r><img src=www.blocksrey.com/shared/l.gif></a>
+	<a href=https://playme.blocksrey.com/l><img src=https://www.blocksrey.com/shared/h.gif></a>
+	<a href=https://playme.blocksrey.com/d><img src=https://www.blocksrey.com/shared/j.gif></a>
+	<a href=https://playme.blocksrey.com/u><img src=https://www.blocksrey.com/shared/k.gif></a>
+	<a href=https://playme.blocksrey.com/r><img src=https://www.blocksrey.com/shared/l.gif></a>
 	<br>
-	<a href=blocksrey.booth.pm><img src=www.blocksrey.com/shared/icons/booth.webp></a>
-	<a href=blocksrey.itch.io><img src=www.blocksrey.com/shared/icons/itch.webp></a>
-	<a href=www.roblox.com/users/9835437/profile><img src=www.blocksrey.com/shared/icons/roblox.webp></a>
-	<a href=www.twitter.com/blocksrey><img src=www.blocksrey.com/shared/icons/twitter.webp></a>
-	<a href=www.facebook.com/blocksery><img src=www.blocksrey.com/shared/icons/facebook.webp></a>
-	<a href=www.youtube.com/blocksrey><img src=www.blocksrey.com/shared/icons/youtube.webp></a>
-	<a href=www.instagram.com/blocksrey><img src=www.blocksrey.com/shared/icons/instagram.webp></a>
+	<a href=https://blocksrey.booth.pm><img src=https://www.blocksrey.com/shared/icons/booth.gif></a>
+	<a href=https://blocksrey.itch.io><img src=https://www.blocksrey.com/shared/icons/itch.gif></a>
+	<a href=https://www.roblox.com/users/9835437/profile><img src=https://www.blocksrey.com/shared/icons/roblox.gif></a>
+	<a href=https://www.twitter.com/blocksrey><img src=https://www.blocksrey.com/shared/icons/twitter.gif></a>
+	<a href=https://www.facebook.com/blocksery><img src=https://www.blocksrey.com/shared/icons/facebook.gif></a>
+	<a href=https://www.youtube.com/blocksrey><img src=https://www.blocksrey.com/shared/icons/youtube.gif></a>
+	<a href=https://www.instagram.com/blocksrey><img src=https://www.blocksrey.com/shared/icons/instagram.gif></a>
 </p>
