@@ -4,7 +4,7 @@ GitHub readme.md (even though it's HTML) by @blocksrey
 -->
 <p align=center>
 	<br>
-	<img src=playme.blocksrey.com/v>
+	<img src=https://playme-461c9dd8d676.herokuapp.com/v>
 	<br>
 	<a href=https://playme.blocksrey.com/l><img src=https://www.blocksrey.com/shared/h.gif></a>
 	<a href=https://playme.blocksrey.com/d><img src=https://www.blocksrey.com/shared/j.gif></a>
