@@ -4,12 +4,12 @@ GitHub readme.md (even though it's HTML) by @blocksrey
 -->
 <p align=center>
 	<br>
-	<img src=https://playme-461c9dd8d676.herokuapp.com/v>
+	<img src=https://playme-7db175f10c0e.herokuapp.com/v>
 	<br>
-	<a href=https://playme-461c9dd8d676.herokuapp.com/h><img src=https://www.blocksrey.com/shared/h.gif></a>
-	<a href=https://playme-461c9dd8d676.herokuapp.com/j><img src=https://www.blocksrey.com/shared/j.gif></a>
-	<a href=https://playme-461c9dd8d676.herokuapp.com/k><img src=https://www.blocksrey.com/shared/k.gif></a>
-	<a href=https://playme-461c9dd8d676.herokuapp.com/l><img src=https://www.blocksrey.com/shared/l.gif></a>
+	<a href=https://playme-7db175f10c0e.herokuapp.com/h><img src=https://www.blocksrey.com/shared/h.gif></a>
+	<a href=https://playme-7db175f10c0e.herokuapp.com/j><img src=https://www.blocksrey.com/shared/j.gif></a>
+	<a href=https://playme-7db175f10c0e.herokuapp.com/k><img src=https://www.blocksrey.com/shared/k.gif></a>
+	<a href=https://playme-7db175f10c0e.herokuapp.com/l><img src=https://www.blocksrey.com/shared/l.gif></a>
 	<br>
 	<a href=https://blocksrey.booth.pm><img src=https://www.blocksrey.com/shared/icons/booth.gif></a>
 	<a href=https://blocksrey.itch.io><img src=https://www.blocksrey.com/shared/icons/itch.gif></a>
