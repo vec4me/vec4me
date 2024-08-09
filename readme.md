@@ -4,12 +4,12 @@ GitHub readme.md (even though it's HTML) by @blocksrey
 -->
 <p align=center>
 	<br>
-	<img src=https://pan.je.gy:7890/v>
+	<img src=https://playme.je.gy/v>
 	<br>
-	<a href=https://pan.je.gy:7890/h><img src=https://www.blocksrey.com/shared/h.gif></a>
-	<a href=https://pan.je.gy:7890/j><img src=https://www.blocksrey.com/shared/j.gif></a>
-	<a href=https://pan.je.gy:7890/k><img src=https://www.blocksrey.com/shared/k.gif></a>
-	<a href=https://pan.je.gy:7890/l><img src=https://www.blocksrey.com/shared/l.gif></a>
+	<a href=https://playme.je.gy/h><img src=https://www.blocksrey.com/shared/h.gif></a>
+	<a href=https://playme.je.gy/j><img src=https://www.blocksrey.com/shared/j.gif></a>
+	<a href=https://playme.je.gy/k><img src=https://www.blocksrey.com/shared/k.gif></a>
+	<a href=https://playme.je.gy/l><img src=https://www.blocksrey.com/shared/l.gif></a>
 	<br>
 	<a href=https://blocksrey.booth.pm><img src=https://www.blocksrey.com/shared/icons/booth.gif></a>
 	<a href=https://blocksrey.itch.io><img src=https://www.blocksrey.com/shared/icons/itch.gif></a>
