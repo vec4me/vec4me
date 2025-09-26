@@ -4,12 +4,12 @@ GitHub readme.md (even though it's HTML) by @vec4me
 -->
 <p align=center>
 	<br>
-	<img src=https://playme.je.gy/v>
+	<img src=https://playme-md.fly.dev/v>
 	<br>
-	<a href=https://playme.je.gy/h><img src=https://www.vec4me.com/shared/h.gif></a>
-	<a href=https://playme.je.gy/j><img src=https://www.vec4me.com/shared/j.gif></a>
-	<a href=https://playme.je.gy/k><img src=https://www.vec4me.com/shared/k.gif></a>
-	<a href=https://playme.je.gy/l><img src=https://www.vec4me.com/shared/l.gif></a>
+	<a href=https://playme-md.fly.dev/h><img src=https://www.vec4me.com/shared/h.gif></a>
+	<a href=https://playme-md.fly.dev/j><img src=https://www.vec4me.com/shared/j.gif></a>
+	<a href=https://playme-md.fly.dev/k><img src=https://www.vec4me.com/shared/k.gif></a>
+	<a href=https://playme-md.fly.dev/l><img src=https://www.vec4me.com/shared/l.gif></a>
 	<br>
 	<a href=https://vec4me.booth.pm><img src=https://www.vec4me.com/shared/icons/booth.gif></a>
 	<a href=https://vec4me.itch.io><img src=https://www.vec4me.com/shared/icons/itch.gif></a>
