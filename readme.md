@@ -6,10 +6,10 @@ GitHub readme.md (even though it's HTML) by @vec4me
 	<br>
 	<img src=https://playme-md.fly.dev/v>
 	<br>
-	<a href=https://playme-md.fly.dev/l><img src=https://www.vec4me.com/shared/h.gif></a>
-	<a href=https://playme-md.fly.dev/d><img src=https://www.vec4me.com/shared/j.gif></a>
-	<a href=https://playme-md.fly.dev/u><img src=https://www.vec4me.com/shared/k.gif></a>
-	<a href=https://playme-md.fly.dev/r><img src=https://www.vec4me.com/shared/l.gif></a>
+	<a href=https://playme-md.fly.dev/a><img src=https://www.vec4me.com/shared/h.gif></a>
+	<a href=https://playme-md.fly.dev/w><img src=https://www.vec4me.com/shared/j.gif></a>
+	<a href=https://playme-md.fly.dev/s><img src=https://www.vec4me.com/shared/k.gif></a>
+	<a href=https://playme-md.fly.dev/d><img src=https://www.vec4me.com/shared/l.gif></a>
 	<br>
 	<a href=https://vec4me.booth.pm><img src=https://www.vec4me.com/shared/icons/booth.gif></a>
 	<a href=https://vec4me.itch.io><img src=https://www.vec4me.com/shared/icons/itch.gif></a>
