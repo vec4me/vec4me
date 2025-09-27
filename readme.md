@@ -7,7 +7,7 @@ GitHub readme.md (even though it's HTML) by @vec4me
 	<img src=https://playme-md.fly.dev/v>
 	<br>
 	<a href=https://playme-md.fly.dev/l><img src=https://www.vec4me.com/shared/h.gif></a>
-	<a href=https://playme-md.fly.dev/b><img src=https://www.vec4me.com/shared/j.gif></a>
+	<a href=https://playme-md.fly.dev/d><img src=https://www.vec4me.com/shared/j.gif></a>
 	<a href=https://playme-md.fly.dev/u><img src=https://www.vec4me.com/shared/k.gif></a>
 	<a href=https://playme-md.fly.dev/r><img src=https://www.vec4me.com/shared/l.gif></a>
 	<br>
